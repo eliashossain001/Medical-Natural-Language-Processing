@@ -1,1 +1,3 @@
 # Medical-Natural-Language-Processing
+
+This repository covers medical natural language processing and its practical implementation. It is true that text data is easy to work with but electronic health records (EHRs) will not be easy. More specifically, the current NLTK library is designed to address some specific use cases, however, the existing library will not work perfectly on biomedical text data. Working with this field is of great concern as not everyone is focusing their research work in this domain. Nevertheless, this repository will be helpful for researchers who are interested in digging deeper into the field of medical NLP.
